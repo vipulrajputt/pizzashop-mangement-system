@@ -1,7 +1,7 @@
 # pizzashop-mangement-system
-#========================
+!========================
 BUILD OUTPUT DESCRIPTION
-#========================
+========================!
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
